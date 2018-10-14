@@ -1,9 +1,11 @@
-# Google India Scholar Collaborative Project- <Your Track> Phase 2
+# A Verified News App under Google India Scholar Collaborative Project- ABND Phase 2
 
-Hi,You've got this template to edit as you start with the Collaborative Projects in Phase 2 and commit your changes. Please read this (https://docs.google.com/document/d/18UC6AAfdgcLLZzuGO_unUlZwc2kBYZqBRogmjDK3Ysc/edit?usp=sharing) document very carefully to understand all the details about the Collaborative Projects.
+A Verified News App, which will show whether the news is real or fake. It will have different levels of admin, sub-admin and user panel to verify news as fast as possible.After full implementation of this app everyone will have their share according to the contribution made. Here everyone starting Admin to User can earn money.
+The project strongly follows the guide line mentioned here. The  (https://docs.google.com/document/d/18UC6AAfdgcLLZzuGO_unUlZwc2kBYZqBRogmjDK3Ysc/edit?usp=sharing) document very carefully to understand all the details about the Collaborative Projects.
 
 **Team**
-- (Add your or your teammates slack Handle here)
+- Praful Nayak (https://github.com/prafulnayak)
+- Mohan CM
 
 ## Table of Contents
 
@@ -19,16 +21,18 @@ Hi,You've got this template to edit as you start with the Collaborative Projects
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
-- Add any of the Getting Started that you want to mention here!
+- [A Reference to News APP Link](https://play.google.com/store/apps/details?id=org.sairaa.news360degree)
+- 
 
 ## Project Title
-<Add your Project Title here.>
+<News 360 Degree>
 
 ## Project Description
-<In brief please update your Project Description here! So that fellow mates in the community can understand what you project is about and contribute to the project>
+<A Verified News App, which will show whether the news is real or fake. It will have different levels of admin, sub-admin and user panel to verify news as fast as possible.After full implementation of this app everyone will have their share according to the contribution made. Here everyone starting Admin to User can earn money.>
 
 ## Project URL
-[Visit the app](#)
+[Visit the app](https://play.google.com/store/apps/details?id=org.sairaa.news360degree)
+[Visit the Starter Code](https://github.com/prafulnayak/News360View)
 
 In case you have any!
 
