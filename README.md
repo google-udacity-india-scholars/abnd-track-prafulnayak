@@ -4,8 +4,9 @@ A Verified News App, which will show whether the news is real or fake. It will h
 The project strongly follows the guide line mentioned here. The  (https://docs.google.com/document/d/18UC6AAfdgcLLZzuGO_unUlZwc2kBYZqBRogmjDK3Ysc/edit?usp=sharing) document very carefully to understand all the details about the Collaborative Projects.
 
 **Team**
-- Praful Nayak (https://github.com/prafulnayak)
+- [Praful Nayak](https://github.com/prafulnayak)
 - Mohan CM
+- Looking for Team
 
 ## Table of Contents
 
@@ -28,11 +29,24 @@ The project strongly follows the guide line mentioned here. The  (https://docs.g
 <News 360 Degree>
 
 ## Project Description
-<A Verified News App, which will show whether the news is real or fake. It will have different levels of admin, sub-admin and user panel to verify news as fast as possible.After full implementation of this app everyone will have their share according to the contribution made. Here everyone starting Admin to User can earn money.>
+A Verified News App, which will show whether the news is real or fake. It will have different levels of admin, sub-admin and user panel to verify news as fast as possible.After full implementation of this app everyone will have their share according to the contribution made. Here everyone starting Admin to User can earn money.
+
+### Why This App ?
+To prevent lynching and an unlawful act due to fake news circulation in social media.
+
+### How to implement ?
+- All of its users have access to post and read any new content, But 
+- while posting a news by user containing photos or videos can't be published immediately, as it has to be verified by nearest sub-admin guy.
+- The app will have a feature to open camera to capture video or photos, only if the location is on.
+And then can directly gets uploaded into the verified news with user and location details.
+
+### Why these many admin, sub-admin and users will work for us ? It will costs too much, Right ?
+- Ans. The news will have ad features which will make money. On each view of a news we can fix the amount to different levels, starting from user to master admin.
 
 ## Project URL
-[Visit the app](https://play.google.com/store/apps/details?id=org.sairaa.news360degree)
-[Visit the Starter Code](https://github.com/prafulnayak/News360View)
+- [Visit the app](https://play.google.com/store/apps/details?id=org.sairaa.news360degree)
+
+- [Visit the Starter Code](https://github.com/prafulnayak/News360View)
 
 In case you have any!
 
