@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News 360 Degree</string>
+    <string name="action_insert_dummy_data">insert dummy</string>
+    <string name="action_delete_all_entries">delete</string>
+    <string name="india_code">in</string>
+    <string name="url">url</string>
+    <string name="no_url">No URL exist</string>
+    <string name="retrieve">Retrieving News....</string>
+    <string name="newsApi">NewsApi</string>
+    <string name="network">Check Internet Connection !!!   Unable to retrieve Latest News...</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="business_cat">business</string>
+    <string name="entertainment_cat">entertainment</string>
+    <string name="health_cat">health</string>
+    <string name="science_cat">science</string>
+    <string name="sports_cat">sports</string>
+    <string name="technology_cat">technology</string>
+    <string name="category">category</string>
+    <string name="detail_news">Detail News</string>
+    <string name="loaging">Loading... Wait Please !</string>
+    <string name="loadingUi">Loading News To UI...    Please Wait....</string>
+    <string name="backgroundServiceName">org.sairaa.news360degree.service.BackgroundService</string>
+    <string name="usa">United State</string>
+    <string name="us_code">us</string>
+    <string name="south_africa">South Africa</string>
+    <string name="sa_code">za</string>
+    <string name="united_kingdom">United Kingdom</string>
+    <string name="uk_code">gb</string>
+    <string name="india">India</string>
+    <string name="noInfo">Not Found :</string>
+
+</resources>
